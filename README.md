@@ -1,15 +1,13 @@
-# Elysia with Bun runtime
+# electronic-shop
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+To install dependencies:
+
 ```bash
-bun create elysia ./elysia-example
+bun install
 ```
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+To run:
 
-Open http://localhost:3000/ with your browser to see the result.
+```bash
+bun run index.ts
+```
